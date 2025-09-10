@@ -7,8 +7,6 @@ Escriba el codigo que ejecute la accion solicitada en cada pregunta.
 
 def pregunta_01():
    
-
-    
     p="Hola mundo cruel!"
 
     
